@@ -47,11 +47,13 @@ Yuan (Taylor) Xie - yx2031@nyu.edu
 - The two questions appear on the screen at the same time with the stimuli so continue to answer the second question after finishing the first one. 
 - There won't be any notice after answering the first question but the second set of stimuli would appear after successfully completing both questions. 
 - Instructions shown before starting the trials: 
+    
     "- You will see three groups of exemplar dots represented a bird's eye view of three groups of people.
     - The distribution of the three groups are circular and symmetrical and the centers of the three groups only varied horizontally.
     - Each group wears a different color of shirt.
     - The black dot represents a person from one of the three groups.
     1) Please categorize this person to one of the three groups based on the position information you have. (Press '1', '2', or '3' to answer)
     2) Report your confidence on a four-point Likert scale. (Press '1', '2', '3', or '4' to answer)
+    
     Please press 'space' to start the trials and 'q' to quit anytime."
 
